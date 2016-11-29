@@ -1,6 +1,6 @@
-### delaunay_cam
+# delaunay_cam
 
-# build on:
+## build on:
 
 openFrameworks 9.8.0 MacOS Sierra
 
